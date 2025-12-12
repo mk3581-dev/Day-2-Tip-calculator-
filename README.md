@@ -10,5 +10,3 @@ This is a simple **Tip Calculator** built in Python. It helps you calculate how 
 4. The program calculates the **total amount including tip** and splits it equally among the people.  
 5. It prints out **how much each person should pay**.
 
-## Example Output
-
